@@ -240,20 +240,20 @@ GitHub 项目按 Star 降序排列。
 ## 产品与官网
 
 <table width="100%" style="table-layout:fixed">
-<colgroup><col width="140" style="width:140px"><col></colgroup>
+<colgroup><col width="140" style="width:140px"><col><col width="80" style="width:80px"></colgroup>
 <thead>
-<tr><th width="140">名称</th><th>简介</th></tr>
+<tr><th width="140">项目</th><th>简介</th><th width="80" align="right">Star</th></tr>
 </thead>
 <tbody>
-  <tr><td width="140"><a href="https://www.narratoai.cn/">NarratoAI</a></td><td>NarratoAI 官方站点</td></tr>
-  <tr><td width="140"><a href="https://cutagent.online/">CutAgent</a></td><td>AI 视频广告 / 分镜向产品</td></tr>
-  <tr><td width="140"><a href="https://ui-dojo.mastra.ai/">Mastra UI Dojo</a></td><td>Mastra Agent UI 示例与组件演练</td></tr>
-  <tr><td width="140"><a href="https://openreel.video/">OpenReel</a></td><td>浏览器端开源剪辑器官网</td></tr>
-  <tr><td width="140"><a href="https://speclip.com/">Speclip</a></td><td>对话式 AI 剪辑</td></tr>
-  <tr><td width="140"><a href="https://www.twelvelabs.io/">Twelve Labs</a></td><td>视频理解与检索 API</td></tr>
-  <tr><td width="140"><a href="https://jollytoday.com/">JollyToday / GhostCut</a></td><td>短剧出海：擦除硬字幕、翻译、角色级配音与批量本地化</td></tr>
-  <tr><td width="140"><a href="https://www.capcut.cn/">剪映 CapCut</a></td><td>商业剪辑与草稿生态</td></tr>
-  <tr><td width="140"><a href="https://magiclight.ai/tools/short-drama-app/">MagicLight 短剧应用</a></td><td>商业 AI 短剧：角色一致性、旁白与分镜成片</td></tr>
+  <tr><td width="140"><a href="https://www.narratoai.cn/">NarratoAI</a></td><td>NarratoAI 官方站点</td><td width="80" align="right" nowrap>—</td></tr>
+  <tr><td width="140"><a href="https://cutagent.online/">CutAgent</a></td><td>AI 视频广告 / 分镜向产品</td><td width="80" align="right" nowrap>—</td></tr>
+  <tr><td width="140"><a href="https://ui-dojo.mastra.ai/">Mastra UI Dojo</a></td><td>Mastra Agent UI 示例与组件演练</td><td width="80" align="right" nowrap>—</td></tr>
+  <tr><td width="140"><a href="https://openreel.video/">OpenReel</a></td><td>浏览器端开源剪辑器官网</td><td width="80" align="right" nowrap>—</td></tr>
+  <tr><td width="140"><a href="https://speclip.com/">Speclip</a></td><td>对话式 AI 剪辑</td><td width="80" align="right" nowrap>—</td></tr>
+  <tr><td width="140"><a href="https://www.twelvelabs.io/">Twelve Labs</a></td><td>视频理解与检索 API</td><td width="80" align="right" nowrap>—</td></tr>
+  <tr><td width="140"><a href="https://jollytoday.com/">JollyToday / GhostCut</a></td><td>短剧出海：擦除硬字幕、翻译、角色级配音与批量本地化</td><td width="80" align="right" nowrap>—</td></tr>
+  <tr><td width="140"><a href="https://www.capcut.cn/">剪映 CapCut</a></td><td>商业剪辑与草稿生态</td><td width="80" align="right" nowrap>—</td></tr>
+  <tr><td width="140"><a href="https://magiclight.ai/tools/short-drama-app/">MagicLight 短剧应用</a></td><td>商业 AI 短剧：角色一致性、旁白与分镜成片</td><td width="80" align="right" nowrap>—</td></tr>
 </tbody>
 </table>
 
