@@ -119,6 +119,7 @@ GitHub 项目按 Star 降序排列。
 - [drama-skills](https://github.com/zenstory-ai/drama-skills) `1,906` — 开源短剧 / 微短剧 Skills：剧本、角色资产、分镜、图/视频提示词与审查，适配 Claude Code 与 Codex。
 - [pexo-skills](https://github.com/pexoai/pexo-skills) `775` — 开源内容创作 Agent Skills 合集，覆盖图像、音频和视频生产步骤。
 - [video-production-skills](https://github.com/Pluviobyte/video-production-skills) `655` — 可复用的 AI 视频制作 Skills：创作、复刻、动效、片头与质检，按工序拆成技能而不是一次性提示词。
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) `486` — MIT 许可、本地优先的 TypeScript CLI、MCP 与视频技能包，让编程 Agent 从可编辑的 plan.json 时间线合成、剪辑、生成并组装视频。
 - [marketplace](https://github.com/aiskillstore/marketplace) `424` — 面向 Claude / Codex / Claude Code 的技能市场：安全审计、一键安装、质量核验后再上架。
 
 ## 无限画布、生成工作室与演示视频
