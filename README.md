@@ -160,6 +160,7 @@ GitHub 项目按 Star 降序排列。
 - [JollyToday / GhostCut](https://jollytoday.com/) — JollyToday / GhostCut：擦除硬字幕、语音翻译，并在 100+ 语种配音；面向短剧与电商批量本地化，可走 API。
 - [剪映 CapCut](https://www.capcut.cn/) — 剪映 CapCut：一站式 AI 成片、图片设计、配音与多轨精剪，草稿生态是很多开源流水线的导出目标。
 - [MagicLight 短剧应用](https://magiclight.ai/tools/short-drama-app/) — MagicLight 短剧应用：脚本到角色、场景、口播成片，37 种声线、20+ 画风、跨集角色不重置，支持多语言与 720p/1080p 导出。
+- [shortshort](https://www.shortshort.io/) — shortshort 官网：把长访谈、播客或讲座切成竖屏短片，切点落在完整句子上，9:16 画面跟随说话人，逐字字幕四种样式，导出 1080×1920 / 30fps MP4 由用户自行发布。
 
 ## 云厂商智能剪辑 / 高光拆条
 
