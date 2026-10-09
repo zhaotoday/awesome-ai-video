@@ -1,6 +1,6 @@
 # awesome-ai-video
 
-AI 视频生产资源索引。收录短剧 / 漫剧产线、一键短视频、高光切片与混剪、时间线剪辑器、ComfyUI × MiniMax H3、Agent 框架与 Skills、画布工作台，以及云厂商智剪 / 高光 API 与相关产品。
+AI 视频生产资源索引。收录短剧 / 漫剧产线、一键短视频、高光切片与混剪、时间线剪辑器、字幕与本地化、多平台分发、ComfyUI × MiniMax H3、Agent 框架与 Skills、模型网关、画布工作台，以及云厂商智剪 / 高光 API 与相关产品。
 
 GitHub 项目按 Star 降序排列。
 
@@ -14,6 +14,7 @@ GitHub 项目按 Star 降序排列。
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) `5,687` — 通用 AIGC 视频引擎：剧本到成片一条流水线，覆盖漫剧、广告、电商、乙游等；自托管，带分镜、TTS 与文/图生视频。
 - [ArcReel](https://github.com/ArcReel/ArcReel) `4,457` — 可自部署 AI 视频工作台：小说/剧本转角色、场景、道具、分镜、成片和剪映草稿，支持跨镜一致性、多模型供应商与费用追踪。
 - [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) `2,173` — 工业级 AI 短剧 / 漫剧导演台：用 Script-to-Asset-to-Keyframe 替代抽卡式生成，一句话到成片，控制角色一致、场景连续与镜头运动。
+- [VideoClaw](https://github.com/HITsz-TMG/VideoClaw) `1,845` — 哈工大（深圳）开源 AI 导演：一句话或梗概走完剧本、角色场景、分镜、参考图、视频生成和后期，支持短剧续写、解说短视频和数字人口播。
 - [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) `1,634` — 本地离线 AI 短剧 / 漫剧工具：故事→分镜→成片，数据不出本机；已接 Seedance 2，支持 AI 真人剧与漫剧工作流管理。
 - [ai_story](https://github.com/xhongc/ai_story) `1,588` — AI 视频 / 动漫 / 短剧 / 漫剧自动生成工具，把故事文本走完分镜到成片的自动化链路。
 - [LingGuo-Drama](https://github.com/LingGuoAI/LingGuo-Drama) `1,505` — 灵果短剧 AI：一句话生成短剧或漫剧，从剧本到成片全自动，一站式短剧 / 漫剧生产平台。
@@ -31,10 +32,14 @@ GitHub 项目按 Star 降序排列。
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `123,685` — 按主题或关键词走大模型 + 自动化工作流，一键生成高清短视频，是目前最常见的开源批量短视频引擎之一。
 - [OpenMontage](https://github.com/calesthio/OpenMontage) `59,101` — 开源智能体影视制作系统：12 条产线、100+ 工具、700+ skill / 制片知识，把编程助手变成完整片场。
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) `28,110` — AI 全自动短视频引擎，把选题到成片做成可调度的自动化流水线。
+- [hypit](https://github.com/hypit-ai/hypit) `20,374` — 开源爆款视频复刻：Agent 按参考片重建镜头、节奏、字幕和特效，可换人脸、台词和 B-roll，一条命令批量出变体，并在 Studio 里改时间线。
 - [short-video-factory](https://github.com/YILS-LIN/short-video-factory) `5,419` — 跨平台桌面批量剪辑：一键做产品营销与泛内容短视频，AI 自动切片拼装，面向高颜值本地出片。
+- [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) `1,616` — 短视频生成工作站：文案、TTS 批量配音、图片素材、ASR 字幕和项目卡片放在同一套本地流程里，按期管理成片。
 - [video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) `1,614` — 给编程 Agent 用的「主题→4K 解说视频」流水线：本地 / Azure TTS、清单式素材引擎、Remotion 合成，可发 B 站 / YouTube / 小红书 / 抖音 / 视频号。
 - [ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) `637` — 端到端短视频产线：FastAPI 编排 + Spring 网关，多模型容灾、熔断、计量与可观测；CLIP 一致性与音画同步自动补救做画质门禁。
 - [openstory](https://github.com/openstory-so/openstory) `627` — 开源 AI 视频序列平台，TanStack Start 构建，用序列/分镜方式组织生成与回放。
+- [mulmocast-cli](https://github.com/receptron/mulmocast-cli) `476` — MulmoCast：用 MulmoScript 把叙事编成视频、播客、幻灯片、漫画和 PDF，给人和大模型共用的多模态演示工具。
+- [video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking) `468` — 真人口播合成：上传出镜视频并写好字幕，在浏览器里完成本机配音和对口型，导出竖屏 MP4，密钥留在本地。
 - [flowboard](https://github.com/crisng95/flowboard) `436` — 开源无限画布做 AI 产品视频：节点拖模型、产品、场景、成片，本地运行，Google Flow + Claude CLI 自动写提示词。
 - [ai-video-agent](https://github.com/xuanyuanzhifeng/ai-video-agent) `125` — 用 AI 生成图片轮播视频和 HTML 动画视频，适合轻量讲解 / 演示向短片。
 - [youmedhub](https://github.com/kociii/youmedhub) `119` — 基于 AI 的视频分析与剪辑工具，把理解画面和动手剪辑放在同一工作流里。
@@ -71,8 +76,11 @@ GitHub 项目按 Star 降序排列。
 - [editor](https://github.com/diffusionstudio/editor) `2,717` — 面向 Agent 的开源剪辑器：剪辑操作落成代码，代码再渲染成视频，适合程序化改时间线。
 - [pireel](https://github.com/pireel/pireel) `1,200` — 开源 CapCut / ChatCut 替代，任意 Agent 都可通过 MCP 驱动同一套时间线。
 - [ai-video-editor](https://github.com/MartinDelophy/ai-video-editor) `816` — 本地优先开源时间线：创作者和 AI Agent 编辑同一条真实时间线，而不是各玩各的草稿。
+- [velorn](https://github.com/VelornLabs/velorn) `500` — 开源桌面视频工作站：真实多轨时间线加 100+ MCP 工具，生成走本地 ComfyUI，剪辑、字幕和导出可离线交给 Agent。
 - [DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent) `460` — 达芬奇 MCP 自动粗剪 Skill：让 Agent 第一次就能在 DaVinci 里跑通自媒体向自动剪辑。
+- [ai-agent-video-editor](https://github.com/pifferologo/ai-agent-video-editor) `157` — 对话式剪辑 CLI：ElevenLabs Scribe 做词级转写，Agent 读打包稿写 EDL，再用 FFmpeg 渲染并自检切点。
 - [kinocut](https://github.com/KyaniteLabs/kinocut) `147` — 给 Agent 用的带护栏视频剪辑 MCP：FFmpeg、Hyperframes、再利用工具，以及 Python 客户端和 CLI，本地免费。
+- [video-editor-ai-agent](https://github.com/Don-Uwe/video-editor-ai-agent) `140` — 素材加创意简报的 Agent 剪辑流水线：导演、精剪、渲染和审片分角色跑，CLI 为主，附实验性时间线 Studio。
 - [hyperframes-cn](https://github.com/bbylw/hyperframes-cn) `28` — 把 HTML / CSS / 媒体和可 seek 动画渲染成确定性 MP4；可本地 CLI，也可给 Agent Skills 或托管工作流当渲染核。
 
 ## ComfyUI、MiniMax H3 与节点生态
@@ -112,14 +120,20 @@ GitHub 项目按 Star 降序排列。
 - [VideoAgent](https://github.com/HKUDS/VideoAgent) `1,875` — EMNLP 2026 VideoAgent：视频理解、剪辑与重制一体的 Agent 框架，一条链路做看懂、剪开、再生成。
 - [agentdown](https://github.com/codexiaoke/agentdown) `15` — Vue 3 的 Agent-native Markdown UI runtime：markdown-it 解析 + pretext 排版 + AGUI 组件/事件，给 Tool / Team Mode 做前端。
 
+## 模型网关
+
+- [AgnesAI-Models](https://github.com/AgnesAI-Labs/AgnesAI-Models) `5,196` — Agnes AI 官方网关与模型目录：OpenAI 兼容接口统一接文本、图像、视频生成和 Agent 工作流。
+
 ## Agent Skills、提示词与导演技能
 
+- [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) `10,898` — 给 Claude Code / Codex 的产品片 Skill：用 Remotion 按镜头配方卡做电影感宣传片，附动效预览、成片模板，并可导出剪映草稿。
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) `4,273` — 给 Claude Code / Cursor / Gemini CLI 用的多模态生成 Skills，经 muapi.ai 出图、视频和音频。
 - [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) `1,986` — 2000+ 精选 Seedance 2.0 视频提示词：电影、动漫、UGC、广告、梗图；含 API、角色一致性与进阶工作流。
 - [drama-skills](https://github.com/zenstory-ai/drama-skills) `1,906` — 开源短剧 / 微短剧 Skills：剧本、角色资产、分镜、图/视频提示词与审查，适配 Claude Code 与 Codex。
 - [pexo-skills](https://github.com/pexoai/pexo-skills) `775` — 开源内容创作 Agent Skills 合集，覆盖图像、音频和视频生产步骤。
 - [video-production-skills](https://github.com/Pluviobyte/video-production-skills) `655` — 可复用的 AI 视频制作 Skills：创作、复刻、动效、片头与质检，按工序拆成技能而不是一次性提示词。
 - [marketplace](https://github.com/aiskillstore/marketplace) `424` — 面向 Claude / Codex / Claude Code 的技能市场：安全审计、一键安装、质量核验后再上架。
+- [Speclip 短剧解说 Skill](https://skillsmp.com/creators/linyqh/speclip-skills/short-drama-video-drama-explainer) — SkillsMP 上的 drama-explainer：解说配音穿插原片高张力片段，产出可剪脚本、配音、分镜和短剧解说成片。
 
 ## 无限画布、生成工作室与演示视频
 
@@ -131,14 +145,21 @@ GitHub 项目按 Star 降序排列。
 ## 语音、下载与后处理
 
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) `29,190` — 本地 ElevenLabs 替代：克隆、音色设计、视频配音、听写、转写与有声书，宣称覆盖 646 种语言。
+- [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) `16,186` — 卡卡字幕助手：语音识别、字幕断句与校正、翻译、烧录一条链，提供 CLI 和桌面界面，也可交给 Claude Code Skill。
 - [VidBee](https://github.com/nexmoe/VidBee) `10,634` — YouTube / TikTok / B 站等 1000+ 站点下载或导入本地片，本机做可检索转写，再用自选模型摘要、翻译、问答。
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) `5,547` — 去掉图像 / 视频上可见与隐式 AI 水印及来源元数据：SynthID、C2PA、EXIF / IPTC / XMP 等，Python 库 + CLI。
+- [video-analyse](https://github.com/ta867070117/video-analyse) `633` — 短视频解析接口：覆盖抖音、快手、小红书、微博等平台的去水印解析，给下载和二次加工接 API。
 
 ## 精选清单与免费 AI 资源
 
 - [awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) `3,234` — 50+ 可克隆部署的开源生成式 AI 应用：生图、视频、虚拟试衣、SaaS 模板与平台对接，模板支持 Vercel 一键部署。
 - [no-cost-ai](https://github.com/zebbern/no-cost-ai) `2,236` — 80+ 免费聊天 / 图像 / 视频 / 语音与 API 清单，用来找零成本可用的模型入口。
+- [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) `2,072` — 面向创作者和代理商的免费生成式 AI 课程：图像、视频、音频怎么做成可交付内容。
 - [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) `190` — 持续更新的 AI 视频模型对比：哪个模型、走哪家 API、什么价格、多快，方便选型而不是只看 Demo。
+
+## 多平台分发
+
+- [MatrixMedia](https://github.com/hanliang97/MatrixMedia) `937` — 矩媒：Electron + CLI 的自媒体矩阵发布工具，把本地视频批量发到抖音、快手、小红书、视频号、头条等平台。
 
 ## SEO / GEO / AEO
 
@@ -160,6 +181,11 @@ GitHub 项目按 Star 降序排列。
 - [JollyToday / GhostCut](https://jollytoday.com/) — JollyToday / GhostCut：擦除硬字幕、语音翻译，并在 100+ 语种配音；面向短剧与电商批量本地化，可走 API。
 - [剪映 CapCut](https://www.capcut.cn/) — 剪映 CapCut：一站式 AI 成片、图片设计、配音与多轨精剪，草稿生态是很多开源流水线的导出目标。
 - [MagicLight 短剧应用](https://magiclight.ai/tools/short-drama-app/) — MagicLight 短剧应用：脚本到角色、场景、口播成片，37 种声线、20+ 画风、跨集角色不重置，支持多语言与 720p/1080p 导出。
+- [Vozo](https://www.vozo.ai/) — 视频翻译与配音：160+ 语种译制、声线克隆、口型同步、字幕和画面文字替换，并提供 API。
+- [Hypit](https://hypit.ai/zh/) — Hypit 中文站：用 Agent 复刻参考视频的结构，替换人物、台词和素材，批量出可继续改的成片。
+- [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
+- [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
+- [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
 
 ## 云厂商智能剪辑 / 高光拆条
 
@@ -167,6 +193,7 @@ GitHub 项目按 Star 降序排列。
 - [火山引擎 AI MediaKit 控制台](https://console.volcengine.com/imp/ai-mediakit) — 火山引擎 AI MediaKit 控制台：字节云上的智能媒体处理入口，配置工作流、高光智剪与媒资任务。
 - [火山引擎 高光智剪-短剧](https://docs.volcengine.com/docs/6448/2381966?lang=zh) — 火山「高光智剪-短剧」文档：识别短剧里高冲突 / 强情绪段落并自动成片，给拆条和二创用。
 - [火山高光分析 Skill 文档](https://github.com/aiskillstore/marketplace/blob/f7415d4390ac2e2fc9cd079e9ca2d7b53b77cf0d/skills/volcengine/byted-mediakit-video/reference/analyze-video-highlights.md) — 火山 MediaKit 高光分析 Skill 参考：说明如何用技能调用视频高光分析接口，给 Claude / Codex 当工具说明书。
+- [火山短剧高光智剪 Skill 文档](https://github.com/aiskillstore/marketplace/blob/f7415d4390ac2e2fc9cd079e9ca2d7b53b77cf0d/skills/volcengine/byted-mediakit-video/reference/generate-highlights-microdrama.md) — 火山 MediaKit「高光智剪-短剧」Skill 参考：按故事线提取高光并混剪成投流视频，可只出分镜，也可连成片一起出。
 - [腾讯云 MPS](https://cloud.tencent.com/document/product/862/107280) — 腾讯云 MPS（媒体处理）文档：转码、智能拆条、高光与短剧相关媒资处理能力，给云上剪辑流水线用。
 - [腾讯云开发者社区文章](https://developer.cloud.tencent.com.cn/article/2694976) — 腾讯云实践文：AI 短漫剧工作流（剧本分镜自动化、多模态出片），讨论降本、点击率与头部团队工业化。
 - [阿里云 IMS 高燃混剪成片](https://help.aliyun.com/zh/ims/user-guide/video-montage) — 阿里云 IMS「高燃混剪成片」：海量素材自动合成高能混剪短片，含功能、计费与 API 调用流程。
