@@ -186,6 +186,7 @@ GitHub 项目按 Star 降序排列。
 - [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
+- [TrendSwap](https://trendswap.app/) — TrendSwap 官网：单张人像照片一键生成高热度短视频，严格锁定五官轮廓与个人身份特征，音画毫秒级同步，支持 Drake、霓虹舞等爆款模板复刻。
 
 ## 云厂商智能剪辑 / 高光拆条
 
