@@ -164,6 +164,7 @@ GitHub 项目按 Star 降序排列。
 
 ## 产品与官网
 
+- [Dance AI Generator](https://danceaigenerator.com/?utm_source=github&utm_medium=github&utm_campaign=zhaotoday_awesome-ai-video) — 照片生成跳舞视频：上传一张人物或宠物照片，选舞蹈模板，生成 6 秒 9:16 竖屏跳舞短视频；免费检测照片，按条一次性付费（$4.90 起），无订阅。
 - [NarratoAI](https://www.narratoai.cn/) — NarratoAI 官网：面向创作者与内容团队的 AI 解说与短视频工作流，字幕识别、画面理解、解说稿、旁白、剪辑到导出。
 - [CutAgent](https://cutagent.online/) — CutAgent：汇总本地 TTS、ASR、视频处理与工作站部署的一键启动整合，偏分镜 / 广告向剪辑环境。
 - [Mastra UI Dojo](https://ui-dojo.mastra.ai/) — Mastra UI Dojo：官方 UI 框架 Showcase，演示 Agent 界面怎么用组件搭对话、工具与工作流。
