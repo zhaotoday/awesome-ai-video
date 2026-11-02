@@ -179,6 +179,8 @@ GitHub 项目按 Star 降序排列。
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
 - [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
+- [Cyanvid](https://cyanvid.com/?utm_source=zhaotoday-awesome-ai-video&utm_medium=directory&utm_campaign=backlinks) — Cyanvid：AI 视频生成 SaaS，支持文本/图片生视频，生成前展示规格与精确积分报价，面向创作者与营销。
+- [Barz Studio](https://barzvideo.com/?utm_source=zhaotoday-awesome-ai-video&utm_medium=directory&utm_campaign=backlinks) — Barz Studio：免费浏览器说唱歌词视频制作，同步歌词与节拍驱动视觉，导出竖屏 WebM；不生成歌曲、人声或 AI 画面。
 
 ## 照片套爆款模板
 
