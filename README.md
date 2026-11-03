@@ -179,6 +179,7 @@ GitHub 项目按 Star 降序排列。
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
 - [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
+- [Seedance Now](https://seedancenow.com/) — Seedance Now：多模型 AI 视频生成工作室，支持 Seedance 2.5、Kling 4.0、Wan 3.0 文生视频与图生视频，最长 30 秒 1080p 无水印，注册送免费积分；独立产品，与字节跳动无关。
 
 ## 照片套爆款模板
 
