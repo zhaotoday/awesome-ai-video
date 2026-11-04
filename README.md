@@ -144,6 +144,9 @@ GitHub 项目按 Star 降序排列。
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) `28,512` — 可自托管的开源图像 / 视频生成工作室：600+ 模型（Flux、Midjourney、Kling、Sora、Veo 等），无内容过滤，MIT。
 - [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas) `6,526` — 开源无限画布：生图、参考图编辑、生视频、Agent 助手、画布编排、提示词库与素材管理，兼容 OpenAI 及各类 2api 渠道。
 - [AIGCCanvasFlow](https://github.com/MaLunan/AIGCCanvasFlow) `112` — Vue 3 + VueFlow 的 AIGC 无限画布，接近可灵 / libTv 的节点编辑器，可挂分镜与剪辑节点。
 
