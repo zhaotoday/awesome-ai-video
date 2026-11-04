@@ -173,17 +173,23 @@ GitHub 项目按 Star 降序排列。
 - [JollyToday / GhostCut](https://jollytoday.com/) — JollyToday / GhostCut：擦除硬字幕、语音翻译，并在 100+ 语种配音；面向短剧与电商批量本地化，可走 API。
 - [剪映 CapCut](https://www.capcut.cn/) — 剪映 CapCut：一站式 AI 成片、图片设计、配音与多轨精剪，草稿生态是很多开源流水线的导出目标。
 - [MagicLight 短剧应用](https://magiclight.ai/tools/short-drama-app/) — MagicLight 短剧应用：脚本到角色、场景、口播成片，37 种声线、20+ 画风、跨集角色不重置，支持多语言与 720p/1080p 导出。
+- [GenFlick](https://genflick.com/) — 电影、剧集、音乐视频和广告的 AI 制片厂：同一组角色跨镜头保持一致，覆盖分镜、成片和首映页。
 - [Vozo](https://www.vozo.ai/) — 视频翻译与配音：160+ 语种译制、声线克隆、口型同步、字幕和画面文字替换，并提供 API。
 - [Hypit](https://hypit.ai/zh/) — Hypit 中文站：用 Agent 复刻参考视频的结构，替换人物、台词和素材，批量出可继续改的成片。
+- [RemakeThat](https://remakethat.com/) — 粘贴 TikTok 或 Facebook 公开视频链接，按原片节奏用自选 AI 达人重拍，可排成按日程自动出片的系列。
 - [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
 - [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
+- [Stivio](https://stivio.ai/) — 图生视频：上传照片并用一句话描述动作，几分钟出 3–30 秒 MP4；网页上可右键图片生成，也提供远程 MCP 给 Claude、Cursor 调用。
+- [Barz Studio](https://barzvideo.com/) — 浏览器说唱歌词视频：导入音轨，自动或手动画轴，节拍驱动画面，导出竖屏 WebM。不生成歌曲、人声或 AI 画面。
 
 ## 照片套爆款模板
 
 - [Ideoy](https://ideoy.ai) — 一张自拍套本周梗模板，MiniMax H3 生成 9:16 短片，按条付费，多条模板共用一个账户。
 - [TrendSwap](https://trendswap.app/) — 一张或两张照片套 TikTok / Reels 热门模板，成片带趋势音轨，按积分选择分辨率后下载 MP4。
+
+## 云厂商智能剪辑 / 高光拆条
 
 - [mediakit-cli](https://github.com/volcengine/mediakit-cli) `200` — 火山引擎 AI MediaKit 命令行：在终端调用智媒处理、高光分析等云能力，方便脚本和 Agent 接入。
 - [火山引擎 AI MediaKit 控制台](https://console.volcengine.com/imp/ai-mediakit) — 火山引擎 AI MediaKit 控制台：字节云上的智能媒体处理入口，配置工作流、高光智剪与媒资任务。
