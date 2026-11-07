@@ -132,6 +132,7 @@ GitHub 项目按 Star 降序排列。
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) `10,898` — 给 Claude Code / Codex 的产品片 Skill：用 Remotion 按镜头配方卡做电影感宣传片，附动效预览、成片模板，并可导出剪映草稿。
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) `4,273` — 给 Claude Code / Cursor / Gemini CLI 用的多模态生成 Skills，经 muapi.ai 出图、视频和音频。
 - [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) `1,986` — 2000+ 精选 Seedance 2.0 视频提示词：电影、动漫、UGC、广告、梗图；含 API、角色一致性与进阶工作流。
+- [awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) `1,953` — AI 短剧 / 漫剧 Agent Skill 精选：83 个 skill 加 16 个开源平台，按创作阶段和视频模型（Seedance、MiniMax H3、可灵等）索引，附三轮盲评实测，不收的项目都写了原因。
 - [drama-skills](https://github.com/zenstory-ai/drama-skills) `1,906` — 开源短剧 / 微短剧 Skills：剧本、角色资产、分镜、图/视频提示词与审查，适配 Claude Code 与 Codex。
 - [pexo-skills](https://github.com/pexoai/pexo-skills) `775` — 开源内容创作 Agent Skills 合集，覆盖图像、音频和视频生产步骤。
 - [video-production-skills](https://github.com/Pluviobyte/video-production-skills) `655` — 可复用的 AI 视频制作 Skills：创作、复刻、动效、片头与质检，按工序拆成技能而不是一次性提示词。
