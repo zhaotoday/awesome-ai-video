@@ -2,9 +2,37 @@
 
 > **承接 AI 漫剧相关应用开发，有需要请加 QQ：`6421664`**
 
-AI 视频生产资源索引。收录短剧 / 漫剧产线、一键短视频、高光切片与混剪、时间线剪辑器、字幕与本地化、多平台分发、照片套爆款模板、ComfyUI × MiniMax H3、Agent 框架与 Skills、模型网关、画布工作台，以及云厂商智剪 / 高光 API 与相关产品。
+AI 视频生产资源索引。收录产品与官网、短剧 / 漫剧产线、一键短视频、高光切片与混剪、时间线剪辑器、字幕与本地化、多平台分发、照片套爆款模板、ComfyUI × MiniMax H3、Agent 框架与 Skills、模型网关、画布工作台，以及云厂商智剪 / 高光 API。
 
-GitHub 项目按 Star 降序排列。
+GitHub 项目按 Star 降序排列。产品与官网按知名度排列。
+
+## 产品与官网
+
+- [剪映 CapCut](https://www.capcut.cn/) — 剪映 CapCut：一站式 AI 成片、图片设计、配音与多轨精剪，草稿生态是很多开源流水线的导出目标。
+- [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
+- [LibTV](https://www.liblib.tv/) — 哩布 LibTV：无限画布和节点工作流，把剧本、分镜、镜头和剪辑放在同一项目里，可调可灵、Wan、Seedance、MiniMax 等模型，也能把 Skill 交给 Agent。
+- [新片场 Shotlab](https://aigc.xinpianchang.com/) — 新片场 Shotlab：节点式无限画布，把图片、视频、音乐、分镜和剪辑串在一起，支持文生视频、参考生视频和首尾帧。
+- [OiiOii](https://www.oiioii.tv/zh/) — AI 动画 Agent：编剧、角色、场景和分镜分工出片，自由画布上改角色和场景，也能拉片复刻爆款结构。
+- [Twelve Labs](https://www.twelvelabs.io/) — Twelve Labs：企业级多模态视频理解，在画面、声音和语言上做检索、分析与理解。
+- [JollyToday / GhostCut](https://jollytoday.com/) — JollyToday / GhostCut：擦除硬字幕、语音翻译，并在 100+ 语种配音；面向短剧与电商批量本地化，可走 API。
+- [Vozo](https://www.vozo.ai/) — 视频翻译与配音：160+ 语种译制、声线克隆、口型同步、字幕和画面文字替换，并提供 API。
+- [Flova](https://flova.tv/zh-CN/) — AI 视频 Agent：用自然语言或剧本推进分镜、素材、配音和时间线，角色与场景可跨项目复用，并提供 CLI 给编程 Agent。
+- [MagicLight 短剧应用](https://magiclight.ai/tools/short-drama-app/) — MagicLight 短剧应用：脚本到角色、场景、口播成片，37 种声线、20+ 画风、跨集角色不重置，支持多语言与 720p/1080p 导出。
+- [NarratoAI](https://www.narratoai.cn/) — NarratoAI 官网：面向创作者与内容团队的 AI 解说与短视频工作流，字幕识别、画面理解、解说稿、旁白、剪辑到导出。
+- [Hypit](https://hypit.ai/zh/) — Hypit 中文站：用 Agent 复刻参考视频的结构，替换人物、台词和素材，批量出可继续改的成片。
+- [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
+- [OpenReel](https://openreel.video/) — OpenReel 官网：和 AI Agent 对话就能改完整时间线，可接 OpenAI / Anthropic / 自建端点，本地优先、MIT。
+- [Speclip](https://speclip.com/) — Speclip 桌面 AI 剪辑：VibeCut 把自然语言变成 macOS / Windows 上的多轨编辑，面向创作者本机出片。
+- [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
+- [Mastra UI Dojo](https://ui-dojo.mastra.ai/) — Mastra UI Dojo：官方 UI 框架 Showcase，演示 Agent 界面怎么用组件搭对话、工具与工作流。
+- [CutAgent](https://cutagent.online/) — CutAgent：汇总本地 TTS、ASR、视频处理与工作站部署的一键启动整合，偏分镜 / 广告向剪辑环境。
+- [GenFlick](https://genflick.com/) — 电影、剧集、音乐视频和广告的 AI 制片厂：同一组角色跨镜头保持一致，覆盖分镜、成片和首映页。
+- [AlphaDrama](https://www.getalphadrama.com) — 小说或剧本转竖屏分集短剧：角色跨镜保持同一张脸，带分镜、配音和字幕；也可以用商品图做带货短片。
+- [RemakeThat](https://remakethat.com/) — 粘贴 TikTok 或 Facebook 公开视频链接，按原片节奏用自选 AI 达人重拍，可排成按日程自动出片的系列。
+- [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
+- [Stivio](https://stivio.ai/) — 图生视频：上传照片并用一句话描述动作，几分钟出 3–30 秒 MP4；网页上可右键图片生成，也提供远程 MCP 给 Claude、Cursor 调用。
+- [Barz Studio](https://barzvideo.com/) — 浏览器说唱歌词视频：导入音轨，自动或手动画轴，节拍驱动画面，导出竖屏 WebM。不生成歌曲、人声或 AI 画面。
+- [AI Rap Video](https://airapvideo.us/) — 用照片和自己的歌词生成说唱短片：可选男声、女声或自动人声，并对口型，时长 8、12 或 15 秒，按包付费。
 
 ## 短剧 / 漫剧 / 影视工业化生产
 
@@ -164,30 +192,6 @@ GitHub 项目按 Star 降序排列。
 ## 多平台分发
 
 - [MatrixMedia](https://github.com/hanliang97/MatrixMedia) `937` — 矩媒：Electron + CLI 的自媒体矩阵发布工具，把本地视频批量发到抖音、快手、小红书、视频号、头条等平台。
-
-## 产品与官网
-
-- [NarratoAI](https://www.narratoai.cn/) — NarratoAI 官网：面向创作者与内容团队的 AI 解说与短视频工作流，字幕识别、画面理解、解说稿、旁白、剪辑到导出。
-- [CutAgent](https://cutagent.online/) — CutAgent：汇总本地 TTS、ASR、视频处理与工作站部署的一键启动整合，偏分镜 / 广告向剪辑环境。
-- [Mastra UI Dojo](https://ui-dojo.mastra.ai/) — Mastra UI Dojo：官方 UI 框架 Showcase，演示 Agent 界面怎么用组件搭对话、工具与工作流。
-- [OpenReel](https://openreel.video/) — OpenReel 官网：和 AI Agent 对话就能改完整时间线，可接 OpenAI / Anthropic / 自建端点，本地优先、MIT。
-- [Speclip](https://speclip.com/) — Speclip 桌面 AI 剪辑：VibeCut 把自然语言变成 macOS / Windows 上的多轨编辑，面向创作者本机出片。
-- [Twelve Labs](https://www.twelvelabs.io/) — Twelve Labs：企业级多模态视频理解，在画面、声音和语言上做检索、分析与理解。
-- [JollyToday / GhostCut](https://jollytoday.com/) — JollyToday / GhostCut：擦除硬字幕、语音翻译，并在 100+ 语种配音；面向短剧与电商批量本地化，可走 API。
-- [剪映 CapCut](https://www.capcut.cn/) — 剪映 CapCut：一站式 AI 成片、图片设计、配音与多轨精剪，草稿生态是很多开源流水线的导出目标。
-- [MagicLight 短剧应用](https://magiclight.ai/tools/short-drama-app/) — MagicLight 短剧应用：脚本到角色、场景、口播成片，37 种声线、20+ 画风、跨集角色不重置，支持多语言与 720p/1080p 导出。
-- [GenFlick](https://genflick.com/) — 电影、剧集、音乐视频和广告的 AI 制片厂：同一组角色跨镜头保持一致，覆盖分镜、成片和首映页。
-- [AlphaDrama](https://www.getalphadrama.com) — 小说或剧本转竖屏分集短剧：角色跨镜保持同一张脸，带分镜、配音和字幕；也可以用商品图做带货短片。
-- [Vozo](https://www.vozo.ai/) — 视频翻译与配音：160+ 语种译制、声线克隆、口型同步、字幕和画面文字替换，并提供 API。
-- [Hypit](https://hypit.ai/zh/) — Hypit 中文站：用 Agent 复刻参考视频的结构，替换人物、台词和素材，批量出可继续改的成片。
-- [RemakeThat](https://remakethat.com/) — 粘贴 TikTok 或 Facebook 公开视频链接，按原片节奏用自选 AI 达人重拍，可排成按日程自动出片的系列。
-- [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
-- [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
-- [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
-- [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
-- [Stivio](https://stivio.ai/) — 图生视频：上传照片并用一句话描述动作，几分钟出 3–30 秒 MP4；网页上可右键图片生成，也提供远程 MCP 给 Claude、Cursor 调用。
-- [Barz Studio](https://barzvideo.com/) — 浏览器说唱歌词视频：导入音轨，自动或手动画轴，节拍驱动画面，导出竖屏 WebM。不生成歌曲、人声或 AI 画面。
-- [AI Rap Video](https://airapvideo.us/) — 用照片和自己的歌词生成说唱短片：可选男声、女声或自动人声，并对口型，时长 8、12 或 15 秒，按包付费。
 
 ## 照片套爆款模板
 
