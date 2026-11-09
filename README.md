@@ -131,6 +131,7 @@ GitHub 项目按 Star 降序排列。
 
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) `10,898` — 给 Claude Code / Codex 的产品片 Skill：用 Remotion 按镜头配方卡做电影感宣传片，附动效预览、成片模板，并可导出剪映草稿。
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) `4,273` — 给 Claude Code / Cursor / Gemini CLI 用的多模态生成 Skills，经 muapi.ai 出图、视频和音频。
+- [awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) `2,081` — AI 短剧 / 漫剧 Agent Skill 精选：剧本、改编、分镜，以及 Seedance、可灵、MiniMax 等模型的视频提示词，给 Claude Code、Codex、千问、豆包和 OpenClaw 用。
 - [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) `1,986` — 2000+ 精选 Seedance 2.0 视频提示词：电影、动漫、UGC、广告、梗图；含 API、角色一致性与进阶工作流。
 - [drama-skills](https://github.com/zenstory-ai/drama-skills) `1,906` — 开源短剧 / 微短剧 Skills：剧本、角色资产、分镜、图/视频提示词与审查，适配 Claude Code 与 Codex。
 - [pexo-skills](https://github.com/pexoai/pexo-skills) `775` — 开源内容创作 Agent Skills 合集，覆盖图像、音频和视频生产步骤。
@@ -176,6 +177,7 @@ GitHub 项目按 Star 降序排列。
 - [剪映 CapCut](https://www.capcut.cn/) — 剪映 CapCut：一站式 AI 成片、图片设计、配音与多轨精剪，草稿生态是很多开源流水线的导出目标。
 - [MagicLight 短剧应用](https://magiclight.ai/tools/short-drama-app/) — MagicLight 短剧应用：脚本到角色、场景、口播成片，37 种声线、20+ 画风、跨集角色不重置，支持多语言与 720p/1080p 导出。
 - [GenFlick](https://genflick.com/) — 电影、剧集、音乐视频和广告的 AI 制片厂：同一组角色跨镜头保持一致，覆盖分镜、成片和首映页。
+- [AlphaDrama](https://www.getalphadrama.com) — 小说或剧本转竖屏分集短剧：角色跨镜保持同一张脸，带分镜、配音和字幕；也可以用商品图做带货短片。
 - [Vozo](https://www.vozo.ai/) — 视频翻译与配音：160+ 语种译制、声线克隆、口型同步、字幕和画面文字替换，并提供 API。
 - [Hypit](https://hypit.ai/zh/) — Hypit 中文站：用 Agent 复刻参考视频的结构，替换人物、台词和素材，批量出可继续改的成片。
 - [RemakeThat](https://remakethat.com/) — 粘贴 TikTok 或 Facebook 公开视频链接，按原片节奏用自选 AI 达人重拍，可排成按日程自动出片的系列。
@@ -185,6 +187,7 @@ GitHub 项目按 Star 降序排列。
 - [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
 - [Stivio](https://stivio.ai/) — 图生视频：上传照片并用一句话描述动作，几分钟出 3–30 秒 MP4；网页上可右键图片生成，也提供远程 MCP 给 Claude、Cursor 调用。
 - [Barz Studio](https://barzvideo.com/) — 浏览器说唱歌词视频：导入音轨，自动或手动画轴，节拍驱动画面，导出竖屏 WebM。不生成歌曲、人声或 AI 画面。
+- [AI Rap Video](https://airapvideo.us/) — 用照片和自己的歌词生成说唱短片：可选男声、女声或自动人声，并对口型，时长 8、12 或 15 秒，按包付费。
 
 ## 照片套爆款模板
 
