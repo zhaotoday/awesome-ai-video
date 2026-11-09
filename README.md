@@ -190,6 +190,7 @@ GitHub 项目按 Star 降序排列。
 
 - [Ideoy](https://ideoy.ai) — 一张自拍套本周梗模板，MiniMax H3 生成 9:16 短片，按条付费，多条模板共用一个账户。
 - [TrendSwap](https://trendswap.app/) — 一张或两张照片套 TikTok / Reels 热门模板，成片带趋势音轨，按积分选择分辨率后下载 MP4。
+- [AI Rap Video](https://airapvideo.us/) — AI 说唱视频生成器：粘贴自己的歌词，选照片、原创角色或双人模板，生成带节拍和人声的对口型说唱短片，按包付费。
 
 ## 云厂商智能剪辑 / 高光拆条
 
