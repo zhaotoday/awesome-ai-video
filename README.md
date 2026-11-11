@@ -276,6 +276,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 
 - [Ideoy](https://ideoy.ai) — 一张自拍套本周梗模板，MiniMax H3 生成 9:16 短片，按条付费，多条模板共用一个账户。
 - [TrendSwap](https://trendswap.app/) — 一张或两张照片套 TikTok / Reels 热门模板，成片带趋势音轨，按积分选择分辨率后下载 MP4。
+- [HoneyVid](https://honeyvid.ai/) — 一张照片把人、宠物或角色放进热门 AI 视频模板，也可在 Playground 用 Kling、Veo、Seedance 生成视频和图片；按积分付费，每条先报价，并提供远程 MCP 给 Claude、ChatGPT、Codex 调用。
 
 ## 云厂商智能剪辑 / 高光拆条
 
