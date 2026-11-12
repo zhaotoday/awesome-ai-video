@@ -17,6 +17,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [CutAgent](https://cutagent.online/) — CutAgent：汇总本地 TTS、ASR、视频处理与工作站部署的一键启动整合，偏分镜 / 广告向剪辑环境。
 - [Barz Studio](https://barzvideo.com/) — 浏览器说唱歌词视频：导入音轨，自动或手动画轴，节拍驱动画面，导出竖屏 WebM。不生成歌曲、人声或 AI 画面。
+- [Vidmoat](https://vidmoat.com/) — Agent-first AI 视频编辑器：用对话或通过 Claude/Cursor/ChatGPT 的 MCP 导入素材、编辑可审阅时间线并渲染 MP4。Hobby 免费；测试密钥不消耗额度。
 
 ### 模型
 
