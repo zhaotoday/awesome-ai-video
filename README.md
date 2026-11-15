@@ -17,11 +17,13 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [CutAgent](https://cutagent.online/) — CutAgent：汇总本地 TTS、ASR、视频处理与工作站部署的一键启动整合，偏分镜 / 广告向剪辑环境。
 - [Barz Studio](https://barzvideo.com/) — 浏览器说唱歌词视频：导入音轨，自动或手动画轴，节拍驱动画面，导出竖屏 WebM。不生成歌曲、人声或 AI 画面。
+- [Vidmoat](https://vidmoat.com/) — 把素材交给 Agent，在可改的时间线上切镜、加字幕和调色；Claude、Cursor 也能经 MCP 改同一条时间线，导出 MP4。
 
 ### 模型
 
 - [MiniMax](https://www.minimax.cn/) — MiniMax 海螺：文本、语音、音乐和视频模型的产品站，H3 是这套索引里大量 ComfyUI 节点和短剧 Skill 的出片模型。
 - [通义万相](https://www.wanxiang.art/) — 阿里通义万相：图像和视频生成，支持文生视频和图生视频。
+- [AI Chili](https://aichili.ai/) — 自研 Chili 2.0：文生视频、图生视频和数字人口播，最长约 30 秒、1080P，也可把模型部署到私有云。
 
 ### 高光、理解与复刻
 
@@ -276,6 +278,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 
 - [Ideoy](https://ideoy.ai) — 一张自拍套本周梗模板，MiniMax H3 生成 9:16 短片，按条付费，多条模板共用一个账户。
 - [TrendSwap](https://trendswap.app/) — 一张或两张照片套 TikTok / Reels 热门模板，成片带趋势音轨，按积分选择分辨率后下载 MP4。
+- [HoneyVid](https://honeyvid.ai/) — 选一条热门视频，放进人物、宠物或角色的照片，生成由它出演的新版本；每条生成前标出积分价格。
 
 ## 云厂商智能剪辑 / 高光拆条
 
