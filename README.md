@@ -164,6 +164,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [cut-director](https://github.com/Fangx-AI/cut-director) `183` — 口播剪辑 Skill：给 ChatCut 用，附可复用的动效提示。
 - [ai-agent-video-editor](https://github.com/pifferologo/ai-agent-video-editor) `157` — 对话式剪辑 CLI：ElevenLabs Scribe 做词级转写，Agent 读打包稿写 EDL，再用 FFmpeg 渲染并自检切点。
 - [video-editor-ai-agent](https://github.com/Don-Uwe/video-editor-ai-agent) `140` — 素材加创意简报的 Agent 剪辑流水线：导演、精剪、渲染和审片分角色跑，CLI 为主，附实验性时间线 Studio。
+- [CutVoke](https://github.com/frankShan001/CutVoke) `36` — 本地优先的开源桌面剪辑器（MIT）：Claude Code、Codex、Cursor 经 MCP 改同一条多轨时间线，人再在同一工程里手修。
 - [hyperframes-cn](https://github.com/bbylw/hyperframes-cn) `31` — 把 HTML / CSS / 媒体和可 seek 动画渲染成确定性 MP4；可本地 CLI，也可给 Agent Skills 或托管工作流当渲染核。
 
 ## ComfyUI、MiniMax H3 与节点生态
@@ -279,6 +280,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [Ideoy](https://ideoy.ai) — 一张自拍套本周梗模板，MiniMax H3 生成 9:16 短片，按条付费，多条模板共用一个账户。
 - [TrendSwap](https://trendswap.app/) — 一张或两张照片套 TikTok / Reels 热门模板，成片带趋势音轨，按积分选择分辨率后下载 MP4。
 - [HoneyVid](https://honeyvid.ai/) — 选一条热门视频，放进人物、宠物或角色的照片，生成由它出演的新版本；每条生成前标出积分价格。
+- [ReelAI](https://tryreelai.com/) — 一张照片套热门动作预设，做成竖屏短视频，也可以自己写提示词。
 
 ## 云厂商智能剪辑 / 高光拆条
 
