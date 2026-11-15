@@ -51,6 +51,8 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [有戏 AI](https://youxi.fullpeace.net/) — 有戏 AI：从剧本到成片的短剧创作工具。
 - [GenFlick](https://genflick.com/) — 电影、剧集、音乐视频和广告的 AI 制片厂：同一组角色跨镜头保持一致，覆盖分镜、成片和首映页。
 - [AlphaDrama](https://www.getalphadrama.com) — 小说或剧本转竖屏分集短剧：角色跨镜保持同一张脸，带分镜、配音和字幕；也可以用商品图做带货短片。
+- [AI Chili](https://aichili.ai/) — AI 视频与图像生成工作台：支持 15 秒多镜头文生视频、图生视频、首尾帧过渡与 4K 超分，提供开发者 API，成片可发往同系短剧站 OnlyChili。
+- [OnlyChili](https://onlychili.aichili.ai/) — AI 短剧与竖屏微剧集流媒体站：按分集播放列表、创作者频道与 9:16 短片组织剧目，支持免费播放、频道订阅与单集解锁，并提供免鉴权远程 MCP 目录接口。
 
 ### 字幕、翻译与本地化
 
