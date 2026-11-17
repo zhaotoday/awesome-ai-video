@@ -65,6 +65,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [Topview](https://www.topview.ai/) — Topview：AI 产品广告视频，并提供 MCP 给 Agent 调用。
 - [Stivio](https://stivio.ai/) — 图生视频：上传照片并用一句话描述动作，几分钟出 3–30 秒 MP4；网页上可右键图片生成，也提供远程 MCP 给 Claude、Cursor 调用。
 - [AI Rap Video](https://airapvideo.us/) — 用照片和自己的歌词生成说唱短片：可选男声、女声或自动人声，并对口型，时长 8、12 或 15 秒，按包付费。
+- [iArt](https://www.iart.ai/) — iArt：用一句话描述想要的动画，AI Agent 逐场景生成动态图形视频（Logo 动画、动态文字、讲解视频），用自然语言修改后导出 MP4；也提供远程 MCP 给 Claude Code、Codex 调用。
 
 ### 其他
 
