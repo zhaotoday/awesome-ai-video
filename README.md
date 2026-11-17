@@ -108,6 +108,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [OpenMontage](https://github.com/calesthio/OpenMontage) `78,944` — 开源智能体影视制作系统：12 条产线、100+ 工具、700+ skill / 制片知识，把编程助手变成完整片场。
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) `29,921` — AI 全自动短视频引擎，把选题到成片做成可调度的自动化流水线。
 - [hypit](https://github.com/hypit-ai/hypit) `28,734` — 开源爆款视频复刻：Agent 按参考片重建镜头、节奏、字幕和特效，可换人脸、台词和 B-roll，一条命令批量出变体，并在 Studio 里改时间线。
+- [OpenFilm](https://github.com/openfilm/openfilm) `8,038` — 开源 AI 视频 Agent（MIT）：编程 Agent 把片子写成 HTML，本地 Studio 在同一条时间线上改画面和剪辑，再渲染成 MP4。
 - [short-video-factory](https://github.com/YILS-LIN/short-video-factory) `6,094` — 跨平台桌面批量剪辑：一键做产品营销与泛内容短视频，AI 自动切片拼装，面向高颜值本地出片。
 - [video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) `1,717` — 给编程 Agent 用的「主题→4K 解说视频」流水线：本地 / Azure TTS、清单式素材引擎、Remotion 合成，可发 B 站 / YouTube / 小红书 / 抖音 / 视频号。
 - [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) `1,616` — 短视频生成工作站：文案、TTS 批量配音、图片素材、ASR 字幕和项目卡片放在同一套本地流程里，按期管理成片。
