@@ -33,6 +33,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [Hypit](https://hypit.ai/zh/) — Hypit 中文站：用 Agent 复刻参考视频的结构，替换人物、台词和素材，批量出可继续改的成片。
 - [RemakeThat](https://remakethat.com/) — 粘贴 TikTok 或 Facebook 公开视频链接，按原片节奏用自选 AI 达人重拍，可排成按日程自动出片的系列。
 - [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
+- [Sisyphos](https://www.getsisyphos.com/?ref=awesome-ai-video) — Mac 视频素材筛选工具：从原始素材里找出最佳片段并说明每个选择的理由，可一键推送到 DaVinci Resolve，也可导出 FCPXML / EDL。
 
 ### 画布与节点工作流
 
