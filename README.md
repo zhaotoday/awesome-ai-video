@@ -53,6 +53,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [有戏 AI](https://youxi.fullpeace.net/) — 有戏 AI：从剧本到成片的短剧创作工具。
 - [GenFlick](https://genflick.com/) — 电影、剧集、音乐视频和广告的 AI 制片厂：同一组角色跨镜头保持一致，覆盖分镜、成片和首映页。
 - [AlphaDrama](https://www.getalphadrama.com) — 小说或剧本转竖屏分集短剧：角色跨镜保持同一张脸，带分镜、配音和字幕；也可以用商品图做带货短片。
+- [Pavo AI](https://pavoai.app/) — AI 视频生成与图生视频：写场景出分镜镜头，可复用同一套角色设定，让角色在短剧和社媒短片的不同镜头里保持一致；浏览器端使用，有免费额度。
 
 ### 字幕、翻译与本地化
 
