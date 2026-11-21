@@ -216,6 +216,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 ## 模型网关
 
 - [AgnesAI-Models](https://github.com/AgnesAI-Labs/AgnesAI-Models) `5,300` — Agnes AI 官方网关与模型目录：OpenAI 兼容接口统一接文本、图像、视频生成和 Agent 工作流。
+- [i2v.ai](https://i2v.ai) — 图片与视频生成 API 与 MCP 网关：12 个图片模型和 16 个视频模型走同一套接口，覆盖文生视频与图生视频，每个付费任务先返回美元报价并可设置消费上限。
 
 ## Agent Skills、提示词与导演技能
 
