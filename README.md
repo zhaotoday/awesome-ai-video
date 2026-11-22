@@ -228,7 +228,6 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) `2,242` — 2000+ 精选 Seedance 2.0 视频提示词：电影、动漫、UGC、广告、梗图；含 API、角色一致性与进阶工作流。
 - [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) `2,198` — 漫剧老李：短剧和漫剧导演 Skill 套装，覆盖剧本、资产、分镜、打戏和质检，提示词可投喂 Seedance 或 MiniMax H3。
 - [short-drama](https://github.com/0xsline/short-drama) `1,661` — 短剧剧本 Skill：从选题、分集写到自检、合规和出海改编。
-- [电商视觉文案](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) `1,184` — 电商视觉文案 Skill（MIT）：把商品资料收成主图、详情页和 A+ 的逐图方案，含画面、图内文案、生图 Prompt 和合规审查。
 - [ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) `975` — 按题材拆开的漫剧 Skill：点子到企划、资产提示词、分集剧本、分镜和视频提示词。
 - [pexo-skills](https://github.com/pexoai/pexo-skills) `835` — 开源内容创作 Agent Skills 合集，覆盖图像、音频和视频生产步骤。
 - [video-production-skills](https://github.com/Pluviobyte/video-production-skills) `720` — 可复用的 AI 视频制作 Skills：创作、复刻、动效、片头与质检，按工序拆成技能而不是一次性提示词。
