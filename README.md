@@ -264,6 +264,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [violin](https://github.com/shang-zhu/violin) `1,086` — 开源视频翻译 Skill。
 - [video-analyse](https://github.com/ta867070117/video-analyse) `646` — 短视频解析接口：覆盖抖音、快手、小红书、微博等平台的去水印解析，给下载和二次加工接 API。
 - [ComfyUI-Drama3](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) `167` — ComfyUI 里的 Fish Audio 配音节点：克隆声线、生成对白，并带语音识别。
+- [Drama3-Studio](https://github.com/nkxx188/Drama3-Studio) `156` — 第三方本地配音台（MIT）：在 Windows 上跑 Fish Audio Drama 3，做语音生成、声线克隆、多人对话和录音修改。
 
 ## 精选清单与免费 AI 资源
 
