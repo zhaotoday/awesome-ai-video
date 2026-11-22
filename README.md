@@ -127,6 +127,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [dsh-short-video-studio](https://github.com/fengyungithub/dsh-short-video-studio) `45` — DeepSeek Harness 上的短视频工作台，出片走 ComfyUI。
 - [dev-shorts-ai](https://github.com/quanxuanji/dev-shorts-ai) `21` — 面向开发者内容的 AI 短视频项目，把技术讲解做成可批量生产的短视频流水线。
 - [dsh-image-video](https://github.com/ihero3/dsh-image-video) `9` — DeepSeek Harness 插件：文生图和文生视频，可切换 MiniMax H3、Wan 和 Seedance。
+- [cpvidego](https://github.com/Noob-stupid/cpvidego) `0` — 开源的一键节奏复刻剪辑器：上传参考片，浏览器内分析切点 / BPM / 踩点结构，把你的素材排成同节奏成片，带可编辑时间线与音乐轨编辑（重复/变速/淡变）；素材零上传，AI 导演可选。
 
 ## 高光切片、智能混剪与解说二创
 
