@@ -284,6 +284,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [TrendSwap](https://trendswap.app/) — 一张或两张照片套 TikTok / Reels 热门模板，成片带趋势音轨，按积分选择分辨率后下载 MP4。
 - [HoneyVid](https://honeyvid.ai/) — 选一条热门视频，放进人物、宠物或角色的照片，生成由它出演的新版本；每条生成前标出积分价格。
 - [ReelAI](https://tryreelai.com/) — 一张照片套热门动作预设，做成竖屏短视频，也可以自己写提示词。
+- [Angry Dance](https://angrydance.com) — 一张照片在浏览器里生成人物或宠物 AI 跳舞及 9:16 竖屏短视频，内置 40+ 一键特效模板，生成前标出积分价格，支持无水印下载。
 
 ## 云厂商智能剪辑 / 高光拆条
 
