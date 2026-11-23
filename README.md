@@ -33,6 +33,8 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [Hypit](https://hypit.ai/zh/) — Hypit 中文站：用 Agent 复刻参考视频的结构，替换人物、台词和素材，批量出可继续改的成片。
 - [RemakeThat](https://remakethat.com/) — 粘贴 TikTok 或 Facebook 公开视频链接，按原片节奏用自选 AI 达人重拍，可排成按日程自动出片的系列。
 - [shortshort](https://www.shortshort.io/) — 长访谈、播客或讲座切成竖屏短片：切点落在完整句子上，9:16 跟随画面中的人脸，逐字字幕四种样式，导出 1080×1920 MP4，也可按日程发到 YouTube。
+- [OpenShorts.io](https://openshorts.io/) — 长视频切成带逐字字幕的竖屏短片：按句子找高光、竖屏跟脸，也可自托管，并提供 API 和 MCP。
+- [Sisyphos](https://www.getsisyphos.com/) — Mac 上的素材筛选：在本机看完每帧，挑出值得留的片段并写明理由，可推进达芬奇，或导出 FCPXML 和 EDL。
 
 ### 画布与节点工作流
 
@@ -116,6 +118,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [YumCut](https://github.com/IgorShadurin/app.yumcut.com) `915` — 一句话生成竖屏短视频，自动写脚本、配音和字幕，可自托管。
 - [ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) `849` — 端到端短视频产线：FastAPI 编排 + Spring 网关，多模型容灾、熔断、计量与可观测；CLIP 一致性与音画同步自动补救做画质门禁。
 - [openstory](https://github.com/openstory-so/openstory) `728` — 开源 AI 视频序列平台，TanStack Start 构建，用序列/分镜方式组织生成与回放。
+- [ViralForge](https://github.com/fendouai/ViralForge) `554` — 开源短视频复刻工作室（Apache-2.0）：拆参考片的钩子和镜头结构，导出可编辑项目和带成本的变体脚本。
 - [video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking) `522` — 真人口播合成：上传出镜视频并写好字幕，在浏览器里完成本机配音和对口型，导出竖屏 MP4，密钥留在本地。
 - [flowboard](https://github.com/crisng95/flowboard) `506` — 开源无限画布做 AI 产品视频：节点拖模型、产品、场景、成片，本地运行，Google Flow + Claude CLI 自动写提示词。
 - [mulmocast-cli](https://github.com/receptron/mulmocast-cli) `482` — MulmoCast：用 MulmoScript 把叙事编成视频、播客、幻灯片、漫画和 PDF，给人和大模型共用的多模态演示工具。
@@ -284,6 +287,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [TrendSwap](https://trendswap.app/) — 一张或两张照片套 TikTok / Reels 热门模板，成片带趋势音轨，按积分选择分辨率后下载 MP4。
 - [HoneyVid](https://honeyvid.ai/) — 选一条热门视频，放进人物、宠物或角色的照片，生成由它出演的新版本；每条生成前标出积分价格。
 - [ReelAI](https://tryreelai.com/) — 一张照片套热门动作预设，做成竖屏短视频，也可以自己写提示词。
+- [Angry Dance](https://angrydance.com/) — 一张人物或宠物照片套跳舞、整蛊和肖像特效，做成无水印 9:16 短片；生成前标出积分价格。
 
 ## 云厂商智能剪辑 / 高光拆条
 
