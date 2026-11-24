@@ -246,6 +246,8 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx) `51` — DeepSeek Harness 插件：视频、图像和音频 Skill，并可配置视觉和视频模型。
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) `47` — 给 Claude Code / Cursor / Gemini CLI 用的多模态生成 Skills，经 muapi.ai 出图、视频和音频。
 - [Speclip 短剧解说 Skill](https://skillsmp.com/creators/linyqh/speclip-skills/short-drama-video-drama-explainer) — SkillsMP 上的 drama-explainer：解说配音穿插原片高张力片段，产出可剪脚本、配音、分镜和短剧解说成片。
+- [camera-prompt-quickcheck](https://github.com/287523023qq-hue/camera-prompt-quickcheck) — 5ms 零 API 的 AI 视频运镜 Prompt 静态预检 Skill（Python 标准库 + [在线体验版](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck)）：生成前按 C01–C06 物理规则打分拦截变焦裁剪/漂移/抖动废片。
+- [cinematic-shot-prompting](https://github.com/287523023qq-hue/cinematic-shot-prompting) — 好莱坞 7 槽位 AI 视频运镜协议生成器，适配可灵 / Runway / Sora / Seedance（已合入 `claude-skills` v2.14.15）。
 
 ## 无限画布、生成工作室与演示视频
 
