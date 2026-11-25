@@ -86,7 +86,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) `2,511` — 本地离线 AI 短剧 / 漫剧工具：故事→分镜→成片，数据不出本机；已接 Seedance 2，支持 AI 真人剧与漫剧工作流管理。
 - [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) `2,476` — 工业级 AI 短剧 / 漫剧导演台：用 Script-to-Asset-to-Keyframe 替代抽卡式生成，一句话到成片，控制角色一致、场景连续与镜头运动。
 - [ai_story](https://github.com/xhongc/ai_story) `2,107` — AI 视频 / 动漫 / 短剧 / 漫剧自动生成工具，把故事文本走完分镜到成片的自动化链路。
-- [CozyClay](https://github.com/NomaDamas/CozyClay) `2,066` — 浏览器里的开源预演：先摆人物、机位和剪辑，再把同一镜头交给视频模型。
+- [CozyClay](https://github.com/HaD0Yun/CozyClay) `2,031` — 浏览器里的开源预演：先摆人物、机位和剪辑，再把同一镜头交给视频模型。
 - [VideoClaw](https://github.com/HITsz-TMG/VideoClaw) `1,915` — 哈工大（深圳）开源 AI 导演：一句话或梗概走完剧本、角色场景、分镜、参考图、视频生成和后期，支持短剧续写、解说短视频和数字人口播。
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) `1,802` — 融光：基于 Agent + AgentScope 2.0 的短剧 / 漫剧 / 视频全流程平台，Java 后端，从创作到成片编排。
 - [LingGuo-Drama](https://github.com/LingGuoAI/LingGuo-Drama) `1,679` — 灵果短剧 AI：一句话生成短剧或漫剧，从剧本到成片全自动，一站式短剧 / 漫剧生产平台。
@@ -160,6 +160,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [openreel-video](https://github.com/Augani/openreel-video) `5,738` — 浏览器里的开源 CapCut 替代：无需安装、不上传云、无水印，在网页里完成专业向剪辑。
 - [pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) `4,964` — 用 Python 生成并导出剪映草稿，把自动剪辑 / 混剪流水线接到剪映时间线；CapCut 版在 pyCapCut 推进。
 - [editor](https://github.com/diffusionstudio/editor) `3,547` — 面向 Agent 的开源剪辑器：剪辑操作落成代码，代码再渲染成视频，适合程序化改时间线。
+- [freecut](https://github.com/walterlow/freecut) `2,360` — 浏览器里的专业多轨剪辑器：素材留在本机，带关键帧、转场和调色，本机转写、配音、配乐，再用 WebCodecs 导出。
 - [pireel](https://github.com/pireel/pireel) `1,481` — 开源 CapCut / ChatCut 替代，任意 Agent 都可通过 MCP 驱动同一套时间线。
 - [ai-video-editor](https://github.com/MartinDelophy/ai-video-editor) `1,002` — 本地优先开源时间线：创作者和 AI Agent 编辑同一条真实时间线，而不是各玩各的草稿。
 - [velorn](https://github.com/VelornLabs/velorn) `542` — 开源桌面视频工作站：真实多轨时间线加 100+ MCP 工具，生成走本地 ComfyUI，剪辑、字幕和导出可离线交给 Agent。
@@ -263,9 +264,12 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) `115,985` — 本地 ElevenLabs 替代：克隆、音色设计、视频配音、听写、转写与有声书，宣称覆盖 646 种语言。
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) `16,599` — 卡卡字幕助手：语音识别、字幕断句与校正、翻译、烧录一条链，提供 CLI 和桌面界面，也可交给 Claude Code Skill。
 - [VidBee](https://github.com/nexmoe/VidBee) `11,193` — YouTube / TikTok / B 站等 1000+ 站点下载或导入本地片，本机做可检索转写，再用自选模型摘要、翻译、问答。
+- [mediabunny](https://github.com/Vanilagy/mediabunny) `7,552` — 纯 TypeScript 的浏览器媒体工具包：读写并转换 MP4、WebM、MP3、HLS 等，走 WebCodecs，可当网页里的 FFmpeg。
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) `6,480` — 去掉图像 / 视频上可见与隐式 AI 水印及来源元数据：SynthID、C2PA、EXIF / IPTC / XMP 等，Python 库 + CLI。
 - [violin](https://github.com/shang-zhu/violin) `1,091` — 开源视频翻译 Skill。
 - [video-analyse](https://github.com/ta867070117/video-analyse) `656` — 短视频解析接口：覆盖抖音、快手、小红书、微博等平台的去水印解析，给下载和二次加工接 API。
+- [browser-whisper](https://github.com/tanpreetjolly/browser-whisper) `237` — 浏览器里的本地语音转写：WebGPU 跑 Whisper、Moonshine 和 Parakeet，音视频不出本机。
+- [turbores](https://github.com/Vanilagy/turbores) `215` — 浏览器里的 WASM Apple ProRes 解码器：支持 422 / 4444 各档，可和 Mediabunny、WebCodecs 一起用。
 - [ComfyUI-Drama3](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) `189` — ComfyUI 里的 Fish Audio 配音节点：克隆声线、生成对白，并带语音识别。
 - [Drama3-Studio](https://github.com/nkxx188/Drama3-Studio) `156` — 第三方本地配音台（MIT）：在 Windows 上跑 Fish Audio Drama 3，做语音生成、声线克隆、多人对话和录音修改。
 
