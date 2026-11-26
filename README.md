@@ -52,6 +52,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [Flova](https://flova.tv/zh-CN/) — AI 视频 Agent：用自然语言或剧本推进分镜、素材、配音和时间线，角色与场景可跨项目复用，并提供 CLI 给编程 Agent。
 - [AniShort](https://anishort.ai/) — AI 影视剧协作平台：多人在无限画布上做脚本、分镜和资产，带剪辑预览和 3D 导演台。
 - [ArcReel](https://arc-reel.com/zh/) — ArcReel 中文站：小说或剧本走到角色、分镜、成片和剪映草稿。开源仓库在短剧一节。
+- [BigBanana AI Director](https://director.tree456.com/) — AI 漫剧和短剧工作台：剧本、角色资产、九宫格分镜、关键帧到成片。开源仓库在短剧一节。
 - [MagicLight 短剧应用](https://magiclight.ai/tools/short-drama-app/) — MagicLight 短剧应用：脚本到角色、场景、口播成片，37 种声线、20+ 画风、跨集角色不重置，支持多语言与 720p/1080p 导出。
 - [有戏 AI](https://youxi.fullpeace.net/) — 有戏 AI：从剧本到成片的短剧创作工具。
 - [GenFlick](https://genflick.com/) — 电影、剧集、音乐视频和广告的 AI 制片厂：同一组角色跨镜头保持一致，覆盖分镜、成片和首映页。
