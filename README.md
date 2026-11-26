@@ -46,6 +46,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 
 ### 短剧、漫剧与成片
 
+- [小云雀](https://www.xiaoyunque.com/) — 抖音旗下的内容创作 Agent：Seedance 2.5 短剧、爆款复刻和创意营销，从剧本解析走到成片。
 - [OiiOii](https://www.oiioii.tv/zh/) — AI 动画 Agent：编剧、角色、场景和分镜分工出片，自由画布上改角色和场景，也能拉片复刻爆款结构。
 - [Updream](https://www.updream.cn/) — 哔哩哔哩 Updream：面向 UP 主、短剧和漫剧的 AI 视频创作，带节点画布、可复用 Skill、Agent 和分镜预演。
 - [Flova](https://flova.tv/zh-CN/) — AI 视频 Agent：用自然语言或剧本推进分镜、素材、配音和时间线，角色与场景可跨项目复用，并提供 CLI 给编程 Agent。
@@ -105,7 +106,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 ## 导演台与预演
 
 - [CozyClay](https://github.com/HaD0Yun/CozyClay) `2,031` — 浏览器里的开源预演：先摆人物、机位和剪辑，再把同一镜头交给视频模型。
-- [storyai-3d-director-desk](https://github.com/jiguang132/storyai-3d-director-desk) `904` — 浏览器里的 3D 导演台演示，用来摆镜头，不是完整出片产线。
+- [storyai-3d-director-desk](https://github.com/jiguang132/storyai-3d-director-desk) `903` — 浏览器里的 3D 导演台演示，用来摆镜头，不是完整出片产线。
 - [director-desk](https://github.com/mangfufu/director-desk) `554` — AI 短剧白模预演和摄影机调度。
 - [open-storyboard-canvas](https://github.com/ganbo-gab/open-storyboard-canvas) `405` — 本地优先的桌面分镜画布：多模型渠道、无限节点、三维导演台和 Agent 放在同一套工程里。
 - [3d-director-desk](https://github.com/xiaozangao/3d-director-desk) `220` — 浏览器里的 3D 运镜分镜台：摆人物和道具，用第一人称记轨迹点，并导出参考 MP4。
@@ -194,7 +195,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [ComfyUI-MiniMax-H3-Turbo](https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo) `627` — ComfyUI 上的 MiniMax H3 Turbo 加速节点，在官方 H3 工作流里换更快的采样 / 推理路径。
 - [h3lite](https://github.com/Rimagination/h3lite) `481` — 硬件感知的 Codex Skill：按本机显存与算力选择参数，经 ComfyUI 跑本地 MiniMax H3 视频。
 - [ComfyUI-ALLinONE-MinimaxH3](https://github.com/LeonQ8/ComfyUI-ALLinONE-MinimaxH3) `372` — 单节点打包 H3：T2V / T2I / I2V / R2V、遮罩、音频驱动、关键帧、延长与 Motion Context 衔接。
-- [ComfyUI-MiniMaxH3-Director](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director) `358` — ComfyUI 内 H3 时间线导演：分镜提示词、首尾帧、图/视频/音频参考、联合音频、实时预览、重拍与镜头串联。
+- [ComfyUI-MiniMaxH3-Director](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director) `365` — ComfyUI 内 H3 时间线导演：分镜提示词、首尾帧、图/视频/音频参考、联合音频、实时预览、重拍与镜头串联。
 - [ComfyUI-MiniMax-H3-Guide](https://github.com/ethanfel/ComfyUI-MiniMax-H3-Guide) `355` — ComfyUI 节点：引导式准备 MiniMax H3 提示词，把杂乱描述收成模型吃得下的结构。
 - [minimax-h3-prompt-skill-T8](https://github.com/T8mars/minimax-h3-prompt-skill-T8) `349` — H3 与 Seedance 2.0 的创意提示词案例 + 可安装 Skills，附 Electron 视频查看器。
 - [ComfyUI-MiniMax-H3-LongMedia](https://github.com/vizart-vj/ComfyUI-MiniMax-H3-LongMedia) `327` — H3 长视频 / 长音频节点：流式 Sol attention、压缩 KV、自适应显存守卫与分块 MLP，面向有限显存的长序列。
@@ -231,7 +232,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 ## Agent Skills、提示词与导演技能
 
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) `21,974` — 给 Claude Code / Codex 的产品片 Skill：用 Remotion 按镜头配方卡做电影感宣传片，附动效预览、成片模板，并可导出剪映草稿。
-- [stickman-video-director](https://github.com/kaomei/stickman-video-director) `8,346` — 给 Claude Code / Codex 的火柴人视频 Skill：一句话出带配音、字幕和音效的动画短片，多种画风。
+- [stickman-video-director](https://github.com/kaomei/stickman-video-director) `8,347` — 给 Claude Code / Codex 的火柴人视频 Skill：一句话出带配音、字幕和音效的动画短片，多种画风。
 - [shuohao-skills](https://github.com/eternityspring/shuohao-skills) `6,916` — AI 短剧 Skill：角色设定、改编大纲、场景道具、剧本和分镜，可在 Claude Code 与 Codex 里用。
 - [drama-skills](https://github.com/zenstory-ai/drama-skills) `4,606` — 开源短剧 / 微短剧 Skills：剧本、角色资产、分镜、图/视频提示词与审查，适配 Claude Code 与 Codex。
 - [awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) `2,684` — AI 短剧 / 漫剧 Agent Skill 精选：剧本、改编、分镜，以及 Seedance、可灵、MiniMax 等模型的视频提示词，给 Claude Code、Codex、千问、豆包和 OpenClaw 用。
@@ -249,6 +250,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [chaojifeng-video-design](https://github.com/mileson/chaojifeng-video-design) `554` — 给 Agent 的视频设计 Skill：主线、分镜、声画节奏、制作和验收。
 - [XiaoLuo-AI-Drama-Skill](https://github.com/zhurui0523/XiaoLuo-AI-Drama-Skill) `527` — 小洛 AI 短剧 Skill。
 - [marketplace](https://github.com/aiskillstore/marketplace) `491` — 面向 Claude / Codex / Claude Code 的技能市场：安全审计、一键安装、质量核验后再上架。
+- [director-skills](https://github.com/kangarooking/director-skills) `310` — 给 Claude Code / Codex 的导演 Skill 套装：把创意、剧本、分镜和成片收成可执行流程，覆盖宣传片、文旅、打戏和表演。
 - [short-drama-production](https://github.com/suihe1/short-drama-production) `206` — 短剧生产 Skill：导演和分镜、MiniMax H3、声音资产、粗剪和质检。
 - [juben](https://github.com/VanGong1999/juben) `191` — 短剧策划和写作平台：多个 Agent 协作出大纲、人物小传和剧本提示词。
 - [video-skills-toolkit](https://github.com/bozhouDev/video-skills-toolkit) `167` — Remotion 用的视频 Skill：口播、素描故事，以及音频转字幕。
@@ -265,6 +267,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas) `10,549` — 开源无限画布：生图、参考图编辑、生视频、Agent 助手、画布编排、提示词库与素材管理，兼容 OpenAI 及各类 2api 渠道。
 - [TwitCanva](https://github.com/SankaiAI/TwitCanva-Video-Workflow) `295` — 无限画布：节点式工作流，可接 Gemini、Veo 和 LangGraph Agent。
 - [AIGCCanvasFlow](https://github.com/MaLunan/AIGCCanvasFlow) `129` — Vue 3 + VueFlow 的 AIGC 无限画布，接近可灵 / libTv 的节点编辑器，可挂分镜与剪辑节点。
+- [DeepSeek-Harness-Video-Director](https://github.com/chiphoton/DeepSeek-Harness-Video-Director) `73` — DeepSeek Harness 的节点式视频导演：把剧本、提示词、图像、音频和视频串成画布，可接 ComfyUI、Ollama 和 MiniMax H3。
 - [dsh-plugin-aigc-canvas](https://github.com/HuanLinOTO/dsh-plugin-aigc-canvas) `19` — DeepSeek Harness 插件：无限画布，带 ffmpeg 后处理和重抽。
 - [MagicPot](https://github.com/MagicPotTeam/MagicPot-Terrarium) `16` — 桌面 AI 工作台：把对话、ComfyUI、参考画布和视频生成放在同一个客户端里。
 
