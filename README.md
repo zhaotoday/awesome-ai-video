@@ -43,6 +43,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [新片场 Shotlab](https://aigc.xinpianchang.com/) — 新片场 Shotlab：节点式无限画布，把图片、视频、音乐、分镜和剪辑串在一起，支持文生视频、参考生视频和首尾帧。
 - [TapNow](https://app.tapnow.media/) — TapNow：智能体创意画布，把电商广告、短片和生成项目放在同一块画布上。
 - [Takeboard](https://fourques.github.io/Takeboard/) — Takeboard：在浏览器里打开的 ComfyUI 向创作画布。
+- [CreoArt](https://creoart.app/pay-as-you-go-ai-generator) — 按量付费的私有 AI 图像与视频工作室：一个永不过期积分钱包直连 Kling 4.0、Seedance 2.5、Google Veo 3.1、MiniMax H3、Wan 3.0 等 45 个主流模型，无公开画廊，附带免费浏览器端 WebGPU PSD 图层编辑器。
 
 ### 短剧、漫剧与成片
 
