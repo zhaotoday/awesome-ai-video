@@ -2,7 +2,7 @@
 
 > **承接 AI 漫剧相关应用开发，有需要请加 QQ：`6421664`**
 
-AI 视频生产资源索引。收录产品与官网、短剧 / 漫剧产线、一键短视频、高光切片与混剪、时间线剪辑器、字幕与本地化、多平台分发、照片套爆款模板、ComfyUI × MiniMax H3、Agent 框架与 Skills、模型网关、画布工作台，以及云厂商智剪 / 高光 API。
+AI 视频生产资源索引。收录产品与官网、短剧 / 漫剧产线、导演台与预演、一键短视频、高光切片与混剪、时间线剪辑器、字幕与本地化、多平台分发、照片套爆款模板、ComfyUI × MiniMax H3、Agent 框架与 Skills、模型网关、画布工作台，以及云厂商智剪 / 高光 API。
 
 GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同一子类里按知名度排列。
 
@@ -86,25 +86,29 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) `2,511` — 本地离线 AI 短剧 / 漫剧工具：故事→分镜→成片，数据不出本机；已接 Seedance 2，支持 AI 真人剧与漫剧工作流管理。
 - [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) `2,480` — 工业级 AI 短剧 / 漫剧导演台：用 Script-to-Asset-to-Keyframe 替代抽卡式生成，一句话到成片，控制角色一致、场景连续与镜头运动。
 - [ai_story](https://github.com/xhongc/ai_story) `2,107` — AI 视频 / 动漫 / 短剧 / 漫剧自动生成工具，把故事文本走完分镜到成片的自动化链路。
-- [CozyClay](https://github.com/HaD0Yun/CozyClay) `2,031` — 浏览器里的开源预演：先摆人物、机位和剪辑，再把同一镜头交给视频模型。
 - [VideoClaw](https://github.com/HITsz-TMG/VideoClaw) `1,915` — 哈工大（深圳）开源 AI 导演：一句话或梗概走完剧本、角色场景、分镜、参考图、视频生成和后期，支持短剧续写、解说短视频和数字人口播。
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) `1,802` — 融光：基于 Agent + AgentScope 2.0 的短剧 / 漫剧 / 视频全流程平台，Java 后端，从创作到成片编排。
 - [LingGuo-Drama](https://github.com/LingGuoAI/LingGuo-Drama) `1,679` — 灵果短剧 AI：一句话生成短剧或漫剧，从剧本到成片全自动，一站式短剧 / 漫剧生产平台。
 - [ai-moive-studio](https://github.com/869413421/ai-moive-studio) `1,667` — AICON：自然语言 + 无限画布驱动的影视工作流 Agent，覆盖剧本拆解、分镜、素材、合成与分发，把文本/图/视频节点串成可编辑产线。
 - [lumenx](https://github.com/alibaba/lumenx) `1,501` — 阿里 LumenX Studio：小说到动态视频的短漫剧一站式生产，打通剧本分析、角色定制、分镜绘制到视频合成。
 - [reveric](https://github.com/looplj/reveric) `938` — 本地桌面工作台，把 AI 小说和短剧放在同一套创作流程里。
-- [storyai-3d-director-desk](https://github.com/jiguang132/storyai-3d-director-desk) `904` — 浏览器里的 3D 导演台演示，用来摆镜头，不是完整出片产线。
 - [director](https://github.com/s1dashu/director) `881` — 多模式成片导演流程：调研、剧本、视觉开发、镜头设计、生成和交付。
 - [CineGen-ShortDrama](https://github.com/UllrAI/CineGen-ShortDrama) `580` — 开源 AI 导演系统：覆盖漫剧、动漫、短剧、解说漫与动态漫生成，从脚本到动画成片。
-- [director-desk](https://github.com/mangfufu/director-desk) `554` — AI 短剧白模预演和摄影机调度。
 - [dramaxis](https://github.com/Agions/dramaxis) `464` — 剧枢：剧工 Fablr 的后继，多智能体导演、多轨时间线和剪映草稿，本地优先。
 - [OpenDirector](https://github.com/ThinkFlowLab/OpenDirector) `449` — 本地短片工作台：对话生成素材，在画布上整理并改画面，再排进时间线导出 MP4，项目留在本机。
 - [openOii](https://github.com/Xeron2000/openOii) `415` — KomaSlate：本地优先的开源 AI 分镜工作台，可重拍单镜、对比版本，并导出 FCPXML。
-- [3d-director-desk](https://github.com/xiaozangao/3d-director-desk) `220` — 浏览器里的 3D 运镜分镜台：摆人物和道具，用第一人称记轨迹点，并导出参考 MP4。
 - [workrally](https://github.com/Tencent/workrally) `202` — 腾讯开源、面向 AI Agent 的 AIGC 漫剧全流程工具集，把漫剧创作各阶段交给 Agent 调用。
 - [fablr](https://github.com/Agions/fablr) `159` — 剧工 Fablr 已停更，代码并入后继项目 Dramaxis（剧枢）。
 - [openframe](https://github.com/murongg/openframe) `140` — 开源免费 AI 漫剧工作台：剧本到角色/场景、分镜、成片，导出 FCPXML / EDL，支持 Web 与桌面端。
 - [comfyui-auto-drama](https://github.com/qiukaihui/comfyui-auto-drama) `79` — 用 ComfyUI 和 MiniMax H3 串起来的短剧流水线：剧本、参考资产、批量生成和合成。
+
+## 导演台与预演
+
+- [CozyClay](https://github.com/HaD0Yun/CozyClay) `2,031` — 浏览器里的开源预演：先摆人物、机位和剪辑，再把同一镜头交给视频模型。
+- [storyai-3d-director-desk](https://github.com/jiguang132/storyai-3d-director-desk) `904` — 浏览器里的 3D 导演台演示，用来摆镜头，不是完整出片产线。
+- [director-desk](https://github.com/mangfufu/director-desk) `554` — AI 短剧白模预演和摄影机调度。
+- [open-storyboard-canvas](https://github.com/ganbo-gab/open-storyboard-canvas) `405` — 本地优先的桌面分镜画布：多模型渠道、无限节点、三维导演台和 Agent 放在同一套工程里。
+- [3d-director-desk](https://github.com/xiaozangao/3d-director-desk) `220` — 浏览器里的 3D 运镜分镜台：摆人物和道具，用第一人称记轨迹点，并导出参考 MP4。
 - [canvasflow-3d-director-stage](https://github.com/sunnygirl-0106/canvasflow-3d-director-stage) `49` — 浏览器里的轻量 3D 分镜台：摆角色和机位、沿路径走位，可导出分镜图和 MP4。
 
 ## 一键短视频与批量成片
@@ -259,7 +263,6 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) `35,646` — 可自托管的开源图像 / 视频生成工作室：600+ 模型（Flux、Midjourney、Kling、Sora、Veo 等），无内容过滤，MIT。
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) `29,137` — 图像和视频生成工作室，用扩散模型做视觉创作。
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas) `10,549` — 开源无限画布：生图、参考图编辑、生视频、Agent 助手、画布编排、提示词库与素材管理，兼容 OpenAI 及各类 2api 渠道。
-- [open-storyboard-canvas](https://github.com/ganbo-gab/open-storyboard-canvas) `405` — 本地优先的桌面分镜画布：多模型渠道、无限节点、三维导演台和 Agent 放在同一套工程里。
 - [TwitCanva](https://github.com/SankaiAI/TwitCanva-Video-Workflow) `295` — 无限画布：节点式工作流，可接 Gemini、Veo 和 LangGraph Agent。
 - [AIGCCanvasFlow](https://github.com/MaLunan/AIGCCanvasFlow) `129` — Vue 3 + VueFlow 的 AIGC 无限画布，接近可灵 / libTv 的节点编辑器，可挂分镜与剪辑节点。
 - [dsh-plugin-aigc-canvas](https://github.com/HuanLinOTO/dsh-plugin-aigc-canvas) `19` — DeepSeek Harness 插件：无限画布，带 ffmpeg 后处理和重抽。
