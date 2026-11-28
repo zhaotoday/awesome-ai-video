@@ -117,10 +117,11 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 ## 一键短视频与批量成片
 
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `146,024` — 按主题或关键词走大模型 + 自动化工作流，一键生成高清短视频，是目前最常见的开源批量短视频引擎之一。
-- [OpenMontage](https://github.com/calesthio/OpenMontage) `83,879` — 开源智能体影视制作系统：12 条产线、100+ 工具、700+ skill / 制片知识，把编程助手变成完整片场。
+- [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) `83,922` — 开源智能体影视制作系统：12 条产线、100+ 工具、700+ skill / 制片知识，把编程助手变成完整片场。
 - [hypit](https://github.com/hypit-ai/hypit) `31,692` — 开源爆款视频复刻：Agent 按参考片重建镜头、节奏、字幕和特效，可换人脸、台词和 B-roll，一条命令批量出变体，并在 Studio 里改时间线。
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) `30,574` — AI 全自动短视频引擎，把选题到成片做成可调度的自动化流水线。
 - [OpenFilm](https://github.com/openfilm/openfilm) `9,633` — 开源 AI 视频 Agent（MIT）：编程 Agent 把片子写成 HTML，本地 Studio 在同一条时间线上改画面和剪辑，再渲染成 MP4。
+- [ShortGPT](https://github.com/RayVentura/ShortGPT) `8,215` — 面向 YouTube Shorts 和 TikTok 的实验性自动化框架：脚本、配音、素材和字幕串成可批量出片的短视频流水线。
 - [short-video-factory](https://github.com/YILS-LIN/short-video-factory) `6,310` — 跨平台桌面批量剪辑：一键做产品营销与泛内容短视频，AI 自动切片拼装，面向高颜值本地出片。
 - [video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) `1,733` — 给编程 Agent 用的「主题→4K 解说视频」流水线：本地 / Azure TTS、清单式素材引擎、Remotion 合成，可发 B 站 / YouTube / 小红书 / 抖音 / 视频号。
 - [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) `1,616` — 短视频生成工作站：文案、TTS 批量配音、图片素材、ASR 字幕和项目卡片放在同一套本地流程里，按期管理成片。
@@ -147,6 +148,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [NarratoAI](https://github.com/linyqh/NarratoAI) `11,953` — 大模型一键解说并剪辑：识别字幕与画面，生成解说稿、配音和成片，是开源 AI 解说剪辑的常用底座。
 - [openshorts](https://github.com/mutonby/openshorts) `9,993` — 长视频转 9:16 竖屏：AI 找高光、人脸跟踪、字幕与配音；可 Docker 自托管，也提供云 GPU、MCP / API 给 Agent。
 - [FunClip](https://github.com/modelscope/FunClip) `6,650` — FunASR 转写 + 字幕 + LLM 辅助切片，本地 Gradio 界面，适合在本机完成识别、打轴和粗剪。
+- [FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) `3,758` — 对话式视频剪辑 Agent：用自然语言找素材、写旁白并编排成片，把手工剪辑收成可审的意图导演。
 - [chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills) `3,281` — 用 Claude Code Skills 驱动的视频剪辑 Agent，把粗剪、切片等步骤交给技能而不是手工时间线。
 - [JJYB_AI_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) `1,283` — JJYB 智剪：自动剪辑 + AI 解说，支持离线 TTS、原声/原创解说、混剪与配音。
 - [clips-studio](https://github.com/ColinGPT9/clips-studio) `731` — 本机 Opus Clip 替代：多模态找片、说话人跟踪、可编辑字幕、对话改时间线；不上传、无订阅、无水印。
@@ -166,6 +168,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) `99,516` — 开源 CapCut 替代：在本地时间线上剪视频。
 - [lossless-cut](https://github.com/mifi/lossless-cut) `46,487` — 无损音视频剪切瑞士军刀：按关键帧快切、合并不重编码，适合粗切素材、拆集与导出再精剪。
+- [video-use](https://github.com/browser-use/video-use) `31,686` — 用编程 Agent 剪视频：把原始素材交给 Claude Code 一类助手，编排并导出成片。
 - [shotcut](https://github.com/mltframework/shotcut) `15,819` — 跨平台开源时间线剪辑器（Qt / GPLv3），本地多轨剪辑、转场与导出，不绑云端。
 - [openreel-video](https://github.com/Augani/openreel-video) `6,583` — 浏览器里的开源 CapCut 替代：无需安装、不上传云、无水印，在网页里完成专业向剪辑。
 - [pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) `5,055` — 用 Python 生成并导出剪映草稿，把自动剪辑 / 混剪流水线接到剪映时间线；CapCut 版在 pyCapCut 推进。
@@ -221,6 +224,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [pipecat](https://github.com/pipecat-ai/pipecat) `17,488` — 开源实时语音和多模态 Agent 框架，由 Daily 维护。
 - [agents](https://github.com/livekit/agents) `15,371` — LiveKit 实时语音 / 视频 AI Agent 框架，用来搭可通话、可看视频的实时智能体。
 - [Fay](https://github.com/xszyou/Fay) `13,661` — Fay：把 2.5D/3D/移动/PC/网页数字人或 OpenAI 兼容 / DeepSeek 大模型接到真实业务系统的 Agent 框架。
+- [LiveTalking](https://github.com/lipku/LiveTalking) `11,401` — 实时交互数字人：流式音视频驱动口型和形象，适合对话和直播出镜。
 - [ten-framework](https://github.com/TEN-framework/ten-framework) `11,247` — 开源对话式语音 AI Agent 框架，面向实时多轮语音交互与工具调用。
 - [voltagent](https://github.com/VoltAgent/voltagent) `11,017` — 开源 TypeScript AI Agent 工程平台：在框架之上提供可观测、可编排的 Agent 工程化能力。
 - [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) `7,085` — 可自托管 TypeScript Agent 运行时：高风险动作先等不可篡改的审批，每次运行留下可离线逐字节核验的记录。
@@ -235,9 +239,13 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 ## Agent Skills、提示词与导演技能
 
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) `23,143` — 给 Claude Code / Codex 的产品片 Skill：用 Remotion 按镜头配方卡做电影感宣传片，附动效预览、成片模板，并可导出剪映草稿。
+- [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) `22,114` — 给 Claude Code 的代码拍片风格库：99 种现成风格，每种是风格提示词加一条纯代码成片，不调用视频模型。
+- [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) `16,680` — Claude Opus 5.5 爆款视频案例和提示词合集：原片对照可复现的重制，并持续更新。
 - [stickman-video-director](https://github.com/kaomei/stickman-video-director) `8,756` — 给 Claude Code / Codex 的火柴人视频 Skill：一句话出带配音、字幕和音效的动画短片，多种画风。
+- [seedance-2.0](https://github.com/Emily2040/seedance-2.0) `8,318` — Seedance 2.0 的四模态影视制作流程：把选题收成分镜、提示词和可执行的成片管线。
 - [shuohao-skills](https://github.com/eternityspring/shuohao-skills) `7,236` — AI 短剧 Skill：角色设定、改编大纲、场景道具、剧本和分镜，可在 Claude Code 与 Codex 里用。
 - [drama-skills](https://github.com/zenstory-ai/drama-skills) `5,137` — 开源短剧 / 微短剧 Skills：剧本、角色资产、分镜、图/视频提示词与审查，适配 Claude Code 与 Codex。
+- [seedance2-skill](https://github.com/dexhunter/seedance2-skill) `4,593` — 给 Seedance 2.0 写视频提示词的 Skill，把镜头意图收成模型能直接用的生成提示。
 - [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) `3,337` — 漫剧老李：短剧和漫剧导演 Skill 套装，覆盖剧本、资产、分镜、打戏和质检，提示词可投喂 Seedance 或 MiniMax H3。
 - [awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) `2,922` — AI 短剧 / 漫剧 Agent Skill 精选：剧本、改编、分镜，以及 Seedance、可灵、MiniMax 等模型的视频提示词，给 Claude Code、Codex、千问、豆包和 OpenClaw 用。
 - [awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) `2,666` — Seedance 2.5 / 2.0 提示词和可安装视频 Skill，案例回溯到原帖，并从 goodcase.ai 每日同步。
