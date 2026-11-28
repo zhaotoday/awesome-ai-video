@@ -18,6 +18,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 - [CutAgent](https://cutagent.online/) — CutAgent：汇总本地 TTS、ASR、视频处理与工作站部署的一键启动整合，偏分镜 / 广告向剪辑环境。
 - [Barz Studio](https://barzvideo.com/) — 浏览器说唱歌词视频：导入音轨，自动或手动画轴，节拍驱动画面，导出竖屏 WebM。不生成歌曲、人声或 AI 画面。
 - [Vidmoat](https://vidmoat.com/) — 把素材交给 Agent，在可改的时间线上切镜、加字幕和调色；Claude、Cursor 也能经 MCP 改同一条时间线，导出 MP4。
+- [Recut](https://tryrecut.com) — AI 视频 Agent：一句话完成 TikTok / Reels / Shorts 尺寸适配、字幕、配乐和长视频切短。
 
 ### 模型
 
