@@ -142,7 +142,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 
 ## 高光切片、智能混剪与解说二创
 
-- [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) `12,874` — AutoClip：智能高光提取与二创剪辑，从长视频里自动找片段并拼成可发布短片。
+- [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) `17,658` — AutoClip：本地优先的开源切片工具，把播客、访谈和课程切成带字幕、封面和发布文案的短片，并提供 MCP。
 - [NarratoAI](https://github.com/linyqh/NarratoAI) `11,902` — 大模型一键解说并剪辑：识别字幕与画面，生成解说稿、配音和成片，是开源 AI 解说剪辑的常用底座。
 - [openshorts](https://github.com/mutonby/openshorts) `9,642` — 长视频转 9:16 竖屏：AI 找高光、人脸跟踪、字幕与配音；可 Docker 自托管，也提供云 GPU、MCP / API 给 Agent。
 - [FunClip](https://github.com/modelscope/FunClip) `6,616` — FunASR 转写 + 字幕 + LLM 辅助切片，本地 Gradio 界面，适合在本机完成识别、打轴和粗剪。
