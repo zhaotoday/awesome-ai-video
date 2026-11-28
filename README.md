@@ -186,6 +186,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) `148,941` — 最强模块化扩散 GUI / API / 节点后端：用图节点拼图像、视频、音频工作流，是开源 AIGC 与 H3 节点生态的底座。
 - [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) `12,287` — MiniMax H3 官方仓库：长视频 / 多模态生成模型与配套提示词 Skills，ComfyUI 与各类导演节点都围绕它展开。
+- [FreeVideo](https://github.com/FlashML-org/FreeVideo) `5,154` — 本机桌面端跑 MiniMax H3：最低约 8 GB 显存和 16 GB 内存，按硬件选择加速路径。
 - [AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) `2,934` — 对接官方 ComfyUI MiniMax-H3 的多段导演节点：按片段编排提示词、参考与衔接，做分镜级 H3 出片。
 - [ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) `2,140` — ComfyUI 官方前端实现，负责节点画布、工作流编辑与和后端引擎的交互。
 - [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) `1,939` — ComfyUI 视频工作流节点，用来加载、合成和导出视频。
