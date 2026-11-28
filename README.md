@@ -23,6 +23,7 @@ GitHub 项目按 Star 降序排列。产品与官网先按用途分子类，同�
 
 - [MiniMax](https://www.minimax.cn/) — MiniMax 海螺：文本、语音、音乐和视频模型的产品站，H3 是这套索引里大量 ComfyUI 节点和短剧 Skill 的出片模型。
 - [通义万相](https://www.wanxiang.art/) — 阿里通义万相：图像和视频生成，支持文生视频和图生视频。
+- [Sand.ai](https://sand.ai/) — Sand.ai 的 MAGI-2：单次生成最长约 30 秒、带原生音频的 1080P 视频，支持多模态参考、精确编辑和自动运镜。
 - [AI Chili](https://aichili.ai/) — 自研 Chili 2.0：文生视频、图生视频和数字人口播，最长约 30 秒、1080P，也可把模型部署到私有云。
 
 ### 高光、理解与复刻
